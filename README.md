@@ -1,2 +1,1 @@
-# Hannibal-
-A secure, configurable Python application with Docker support, environment isolation, security tooling, and professional structure.
+Hannibal is a secure Python bot designed as a price comparator between CoreDAO and Pi Network relative to the Tunisian dinar (TND). It can run continuously (CLI or container) to fetch prices, convert to TND, compare values, and output results via console logs, webhooks, or chat integrations — packaged with production‑grade practices (security, environment isolation, Docker support, and professional structure)
